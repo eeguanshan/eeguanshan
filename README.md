@@ -31,12 +31,12 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=eeguanshantheme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=eeguanshan&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeguanshan&theme=react&layout=compact" />
 </p>
 
 ------
 
-[BrantLauro](https://github.com/eeguanshan)
+[Shan.Ee](https://github.com/eeguanshan)
 
 Last Edited on: 05/08/2023
